@@ -1,0 +1,4 @@
+baseURL = "https://bathroomdecorunique44.vercel.app"
+languageCode = "en-us"
+title = "Bathroom Decor Ideas"
+theme = "hugo-theme-minos"
